@@ -1,5 +1,5 @@
 # Practice It: Java 
-This is the repository for the LinkedIn Learning course Practice It: Java . The full course is available from [LinkedIn Learning][lil-course-url].
+This is the repository for the LinkedIn Learning course Practice It: Java. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![Practice It: Java ][lil-thumbnail-url]
 
