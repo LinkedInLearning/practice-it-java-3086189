@@ -15,5 +15,4 @@ public class Ticket {
 
   // Add a separate method to get the value of each field, called getDestination,
   // getPrice and getIsReturn.
-
 }
